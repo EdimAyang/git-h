@@ -1,0 +1,75 @@
+.myNav {
+    position: fixed;
+    width: 100%;
+    background-color: #decd16;
+    height: 80px;
+    line-height: 80px;
+}
+
+.myNav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.myNav li {
+    display: inline;
+    padding: 5%;
+}
+
+.myNav li a {
+    color: white;
+    text-decoration: none;
+    padding: 20px 15px;
+    text-align: center;
+}
+
+#myImage {
+    width: 100%;
+}
+
+p {
+    background-color: gray;
+    line-height: 2;
+    padding: 5%;
+    text-align: center;
+    color: white;
+}
+
+ol {
+    list-style: none;
+}
+
+#contact {
+    margin: 20px;
+    padding: 16px;
+}
+
+#contact > input, label, button {
+    display: block;
+}
+
+input {
+    padding: 10px;
+    width: 100%;
+    border: none;
+    margin: 5px 0 22px 0;
+    background: pink;
+}
+
+#sub {
+    padding: 10px;
+    margin-left: 25%;
+    width: 50%;
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+#sub:hover {
+    background-color: chocolate;
+    width: 70%;
+}
