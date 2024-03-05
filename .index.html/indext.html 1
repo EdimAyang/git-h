@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>JOSEPH FAVOURITE DC CHARACTER</title>
+        <link rel="stylesheet" href="/stylesheet.css">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li>
+                        <a href="#about">About</a>
+                    </li>
+                    <li>
+                        <a href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+<section>
+    <div>
+     <img src="/index.html2/image3.jpg" alt="Superman image">   
+    </div>
+</section>
+
+<section>
+    <h1>Superman</h1>
+    <p>
+        <h3>Who is the MAN OF STEEL</h3>
+        <summary>
+The man of steel is a kryptonian from the planet krypton and his a superhero, who gets his powers from the sun
+        </summary>
+    </p>
+</section>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IYdg1Y8S0N0?si=GU3Kzv0aX-mZaXYg"
+ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen></iframe>
+    </body>
+</html>
